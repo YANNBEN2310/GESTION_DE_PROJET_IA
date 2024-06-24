@@ -1,0 +1,18 @@
+{
+    "name": "gestion_de_projet_ia",
+    "version": "1.0.0",
+    "description": "A simple static site deployed on Heroku",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "engines": {
+      "node": ">=14.x"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
